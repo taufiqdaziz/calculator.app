@@ -19,4 +19,12 @@ class Calculator
 	{
 		return a-b;
 	}
+	static int perkalian(int a, int b);
+	{
+		retrun a*b;
+	}
+	static int pembagian(int a, int b);
+	{
+		retrun a/b;
+	}
 }
